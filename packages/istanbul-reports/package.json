@@ -14,7 +14,7 @@
     "prepare:watch": "webpack --config lib/html-spa/webpack.config.js --watch --mode development"
   },
   "dependencies": {
-    "handlebars": "^4.4.2",
+    "handlebars": "^4.4.4",
     "istanbul-lib-report": "^3.0.0-alpha.1"
   },
   "devDependencies": {
